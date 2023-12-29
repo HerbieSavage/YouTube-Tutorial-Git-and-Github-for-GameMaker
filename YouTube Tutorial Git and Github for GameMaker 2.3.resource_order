@@ -1,10 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"Object2","order":17,"path":"objects/Object2/Object2.yy",},
-    {"name":"Object1","order":16,"path":"objects/Object1/Object1.yy",},
-    {"name":"Object4","order":19,"path":"objects/Object4/Object4.yy",},
-    {"name":"Object3","order":18,"path":"objects/Object3/Object3.yy",},
-    {"name":"Room1","order":15,"path":"rooms/Room1/Room1.yy",},
+    {"name":"obj_test","order":18,"path":"objects/obj_test/obj_test.yy",},
+    {"name":"rm_test","order":15,"path":"rooms/rm_test/rm_test.yy",},
   ],
 }
